@@ -1,0 +1,10 @@
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+.title {
+    font-size: 36px;
+    background-color: green;
+    color: aqua;
+}
